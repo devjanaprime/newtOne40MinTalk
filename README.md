@@ -45,12 +45,12 @@ Controls
 supported on Mac:
 * PS4
 * XBox360
-* XBox One
+* XBoxOne
 
 supported on PC:
 * PS4
 * XBox360
-* XBox One
+* XBoxOne
 * Logitech F310
 * WiiU Pro 
 * Steel Series 3GC
