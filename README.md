@@ -34,6 +34,7 @@ Debugging weird issues and cutting bad ideas
 * parrot crackhead
 * coins
 * enemies
+* lives
 
 Controls
 --------
