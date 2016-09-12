@@ -27,6 +27,10 @@ Music/Progress system
 ---------------------
 * demo
 
+Level Design
+------------
+* slides
+
 Debugging weird issues and cutting bad ideas
 --------------------------------------------
 * parented objects
