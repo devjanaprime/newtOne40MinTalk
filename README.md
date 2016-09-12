@@ -10,7 +10,7 @@ Initial Play through
 --------------------
 * Level 1: Forest 1 (no power ups, focus on environment and music changes)
 * Level 2: Burst and Wings (not forest)
-* Level 3: Disruptor (different level)
+* Level 3: Disruptor (different realm)
 
 Philosophy
 ----------
