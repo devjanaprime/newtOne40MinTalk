@@ -20,21 +20,6 @@ Philosophy
 * highly replayable (parrots, notes, achievements)
 * multiple platforms
 
-Controls
---------
-supported on Mac:
-* PS4
-* XBox360
-* XBoxOne
-
-supported on PC:
-* PS4
-* XBox360
-* XBoxOne
-* Logitech F310
-* WiiU Pro 
-* Steel Series 3GC
-
 Art overview
 ------------
 * slides
