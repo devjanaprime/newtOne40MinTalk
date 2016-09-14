@@ -18,27 +18,7 @@ Philosophy
 * create happiness
 * levels shouldn't be too large (about 3 min)
 * highly replayable (parrots, notes, achievements)
-
-Art overview
-------------
-* slides
-
-Music/Progress system
----------------------
-* demo
-
-Level Design
-------------
-* slides
-
-Debugging weird issues and cutting bad ideas
---------------------------------------------
-* parented objects
-* leaderboards
-* parrot crackhead
-* coins
-* enemies
-* lives
+* multiple platforms
 
 Controls
 --------
@@ -55,12 +35,35 @@ supported on PC:
 * WiiU Pro 
 * Steel Series 3GC
 
+Art overview
+------------
+* slides
+
+Music/Progress system
+---------------------
+* demo level with show music on
+
+Level Design
+------------
+* slides for process
+* new feature requests
+
 Adding new features/course adjusting during development
 -------------------------------------------------------
 * Disruptors
 * outfits
 * lives
 * Hub Level
+
+Debugging weird issues and cutting bad ideas
+--------------------------------------------
+* parented objects
+* leaderboards
+* parrot crackhead
+* coins
+* enemies
+* lives
+* 
 
 Final demo: Hub level - Wand Level
 ----------------------------------
