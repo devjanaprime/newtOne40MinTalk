@@ -1,57 +1,85 @@
 Newt One talk (40 min or so)
 ============================
 
-Intro 
------
-* who we are
-* overview of the project
-
-Initial Play through
---------------------
-* Level 1: Forest 1 (no power ups, focus on environment and music changes)
-* Level 2: Burst and Wings (not forest)
-* Level 3: Disruptor (different realm)
-
-Philosophy
-----------
+Intro & overview
+================
 * non-violent
 * create happiness
-* levels shouldn't be too large (about 3 min)
-* highly replayable (parrots, notes, achievements)
-* multiple platforms
+* levels shouldn't be too large (about 3-5 min for experienced players)
+* highly replayable (parrots, notes, achievements, narrative unlocks, etc)
+* multiple platforms (console launch first XBone, hopefully)
 
-Art overview
-------------
-* slides
+Initial Play through
+====================
+* Level 1: Forest 1 (no power ups, focus on environment and music changes)
+* Level 2: Burst and Wings (Clouds3)
 
-Music/Progress system
----------------------
-* demo level with show music on
-
-Level Design
-------------
+Art & Level Design
+===================
 * slides for process
 * new feature requests
 
+Music/Progress system
+=====================
+* Dev slides
+* demo level with show music on
+* Forest 2
+* also show wings
+
 Adding new features/course adjusting during development
--------------------------------------------------------
-* Disruptors
-* outfits
-* lives
-* Hub Level
+======================================================
+movers-path movers-stoping path mover
+-------------------------------------
+* originally thought only backl-forht movers would be enough
+* evoled to pathing movers
+* started using movers in creative ways in level editors
+* evolved to path movers that stops at end
 
-Debugging weird issues and cutting bad ideas
---------------------------------------------
-* parented objects
-* leaderboards
-* parrot crackhead
-* coins
-* enemies
-* lives
-* 
+outfits/lives/notes/coins
+-------------------------
+* started as coins
+* 30/level
+* became notes
+* 50 for an extra life
+* asked "why do you have lives?" at MinneBar
+* observed many players stop playing when out of lives at TEDx Minne
+* now 50 for an outfit upgrade
+* when player "dies" the respawn sound is more happy (respawn, not death)
+Disruptors
+----------
+* started as a Krystal idea
+* evolved in a Slack convo
+* started as crystals
+* show slack convo
+* added bubble
+* play thru of Ice 4
 
-Final demo: Hub level - Wand Level
-----------------------------------
+parented animated objects
+-------------------------
+* trees/flowers (bones animated objects)
+* show a couple pics 
+* explain fix
+
+leaderboards
+------------
+* still up for beta
+* felt too competitive for the game
+
+enemies/NPC
+-----------
+* originally standard 3D platformer (jump on enemies)
+* we tried a bunch of them (gifs)
+* first ghost
+
+Hub Level
+---------
+* show old versions
+* show sketches of new
+
+Final demo: Hub level
+=====================
+* Hub level
+* Forest 6
 
 Q&A
----
+===
