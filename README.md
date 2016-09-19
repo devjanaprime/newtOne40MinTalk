@@ -45,6 +45,7 @@ Systems
 * Music System Overview
 * Forest 2 playthrough with 'show music' (also wings)
 * wave platforms
+* 
 ![wave platforms](http://i.giphy.com/iIr3m6MgfUjPG.gif)
 * Scale Outs
 
@@ -59,6 +60,7 @@ MOVER GIF
 * evoled to pathing movers
 PATH MOVER GIF
 * started using movers in creative ways in level editors
+* 
 ![ice platforms](http://i.giphy.com/ao8jlGusmfFPq.gif)
 * evolved to path movers that stops at end
 PATH MOVER STOP GIF
@@ -81,11 +83,15 @@ Disruptors
 * started as Krystal's idea
 * prototyped and iterated
 * started as crystals only
+
 ![disruptor prototype](http://i.giphy.com/1O56HXGkmcNUI.gif)
 * evolved in a Slack convo
+ 
 ![disruptors convo](http://i.imgur.com/EYEMZZh.png)
+
 ![updated model](http://i.giphy.com/PqKEG8xOsARva.gif)
 * juiced it
+
 ![juice](http://i.giphy.com/whuC8e1GX7xx6.gif)
 * added bubble
 * play thru of Ice 4
@@ -104,8 +110,10 @@ leaderboards
 Enemies/NPC
 -----------
 * originally standard 3D platformer (jump on enemies)
+
 ![oldschool](http://i.giphy.com/kMKAzu88RozbW.gif)
 * we tried a bunch of them
+
 ![enemy projectile](http://i.giphy.com/ypsGwe0VutBHG.gif)
 * first ghost story
 
