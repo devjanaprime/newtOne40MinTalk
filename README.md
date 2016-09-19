@@ -47,6 +47,7 @@ Level Design
 
 Progress System
 ===============
+* asdf asdf asdf
 
 Music System
 ============
@@ -64,6 +65,7 @@ Other Systems/Features
 
 
 * combinations?
+
 SCALE WAVES GIF
 
 Adding New Features/Course Adjusting During Development
@@ -100,7 +102,7 @@ NOTES GIF
 
 * 50 for an extra life
 
-OLD UI WITH LIVES
+![extra life](http://i.giphy.com/cB4ukcrbK9lfi.gif)
 
 * asked "why do you have lives?" at MinneBar 2016
 * observed many players stop playing when out of lives at TEDx Minne 2016
@@ -131,7 +133,9 @@ Disruptors
 parented animated objects
 -------------------------
 * trees/flowers (bones animated objects)
+
 PROBLEM IMAGE
+
 FIXED IMAGE
 
 leaderboards
