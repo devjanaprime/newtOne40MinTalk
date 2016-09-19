@@ -89,12 +89,14 @@ outfits/lives/notes/coins
 -------------------------
 * started as coins
 
-![notes oldschool](http://i.imgur.com/IzUyEZX.gif)
+![coins](http://i.imgur.com/IzUyEZX.gif)
 
 * 30/level
 * became notes
 
 NOTES GIF
+
+![notes](http://i.giphy.com/zmgRgFI3Xtvj2.gif)
 
 * 50 for an extra life
 
