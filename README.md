@@ -56,7 +56,7 @@ Other Systems/Features
 ======================
 * Scale Outs
 
-SCALE OUT GIF
+![scale outs](http://i.giphy.com/6NFa2QCk5kcSc.gif)
 
 * wave platforms
 
