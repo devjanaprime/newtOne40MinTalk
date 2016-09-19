@@ -1,9 +1,7 @@
 Newt One talk
 =============
 https://www.facebook.com/devnari
-
 https://twitter.com/DNANewtOne
-
 Contact us about beta testing and Slack channel access
 
 Intro & overview
