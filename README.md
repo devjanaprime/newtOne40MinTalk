@@ -35,7 +35,6 @@ Art:
 ![art3](http://i.imgur.com/M7hK8GM.png)
 ![art4](http://i.imgur.com/2kyoVz5.png)
 ![art5](http://i.imgur.com/bLWwUWn.png)
-![art5](http://i.imgur.com/bLWwUWn.png)
 ![art6](http://i.imgur.com/ZnVndvV.png)
 
 Level Design:
