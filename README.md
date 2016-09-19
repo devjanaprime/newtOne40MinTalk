@@ -72,7 +72,7 @@ movers-path movers-stopping path mover
 -------------------------------------
 * originally thought only back-forth movers would be enough
 
-MOVER GIF
+![simple mover](http://i.giphy.com/wJBvOcuQGQ4wM.gif)
 
 * evoled to pathing movers
 
@@ -82,29 +82,29 @@ PATH MOVER GIF
 
 ![ice platforms](http://i.giphy.com/ao8jlGusmfFPq.gif)
 
-* evolved to path movers that stops at end
+* one level needs path a mover that stops at last position
 
-PATH MOVER STOP GIF
 
 outfits/lives/notes/coins
 -------------------------
 * started as coins
 
-COINS IMG
+![notes oldschool](http://i.imgur.com/IzUyEZX.gif)
 
 * 30/level
 * became notes
+
+NOTES GIF
+
 * 50 for an extra life
 
 OLD UI WITH LIVES
 
 * asked "why do you have lives?" at MinneBar 2016
-
 * observed many players stop playing when out of lives at TEDx Minne 2016
-
 * now 50 for an outfit upgrade
 
-OUTFITS IMAGES
+![first in-game outfits](http://i.imgur.com/YWOoPvt.png)
 
 * when player "dies" the respawn sound is more happy (respawn, not death)
 
