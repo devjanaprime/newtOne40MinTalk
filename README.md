@@ -163,7 +163,7 @@ OLD HUB WORLD IMAGES
 
 * show sketches of new
 
-NEW HUB WORLD SKETCHES
+![hub world sketches](http://i.imgur.com/B8R6jv7.jpg)
 
 Final Demo
 ==========
