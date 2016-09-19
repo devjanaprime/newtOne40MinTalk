@@ -15,8 +15,8 @@ Intro & overview
 * highly replayable (parrots, notes, achievements, narrative unlocks, etc)
 * non-linear
 * multiple platforms (console launch first XBOne, hopefully)
-* increase happiness and well-being... possible? Let's find out
-* 
+* increase happiness and well-being... possible? We'd like to try and find out
+
 ![overview1](http://i.imgur.com/MpIJKl1.png)
 ![overview2](http://i.imgur.com/Oixz9bp.png)
 ![overview3](http://i.imgur.com/JLFom32.png)
