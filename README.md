@@ -1,7 +1,5 @@
 Newt One talk
 =============
-(40 min or so)
-
 https://www.facebook.com/devnari
 
 https://twitter.com/DNANewtOne
