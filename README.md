@@ -130,7 +130,9 @@ parented animated objects
 -------------------------
 * trees/flowers (bones animated objects)
 
-PROBLEM GIF
+![scale working in editor](http://i.giphy.com/RBpLTzTUL0b6M.gif)
+
+![scale problem](http://i.giphy.com/GpWpa0Tt08xaM.gif)
 
 ![stay scaled parented animated](http://i.giphy.com/DfqrrS1ZR3ZC.gif)
 
