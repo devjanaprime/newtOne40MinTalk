@@ -130,7 +130,7 @@ parented animated objects
 
 PROBLEM GIF
 
-FIXED GIF
+![stay scaled parented animated](http://i.giphy.com/DfqrrS1ZR3ZC.gif)
 
 leaderboards
 ------------
