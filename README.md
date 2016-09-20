@@ -64,10 +64,6 @@ Other Systems/Features
 ![wave platforms](http://i.giphy.com/iIr3m6MgfUjPG.gif)
 
 
-* combinations?
-
-SCALE WAVES GIF
-
 Adding New Features/Course Adjusting During Development
 =======================================================
 movers-path movers-stopping path mover
@@ -95,8 +91,6 @@ outfits/lives/notes/coins
 
 * 30/level
 * became notes
-
-NOTES GIF
 
 ![notes](http://i.giphy.com/zmgRgFI3Xtvj2.gif)
 
@@ -134,9 +128,9 @@ parented animated objects
 -------------------------
 * trees/flowers (bones animated objects)
 
-PROBLEM IMAGE
+PROBLEM GIF
 
-FIXED IMAGE
+FIXED GIF
 
 leaderboards
 ------------
