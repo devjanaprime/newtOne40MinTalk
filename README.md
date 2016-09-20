@@ -45,14 +45,26 @@ Level Design
 ![ld4](http://i.imgur.com/9QY1C50.png)
 ![ld5](http://i.imgur.com/73OrrvT.png)
 
-Progress System
-===============
+Systems
+=======
+![systems](http://i.imgur.com/MAmIL20.png)
+
 * Level (percentage, drone/music, aesthetics)
 * Realm (wand, parrots, time)
 * World
 
-Music System
-============
+* music level system
+
+![level music system](http://i.imgur.com/xkYgI2E.png)
+
+Testing Analytics System
+========================
+![testing SQL](http://i.imgur.com/G2FvnRj.png)
+
+[![video](http://i.imgur.com/ybjPXn1.png)](https://youtu.be/NrIpgW_MOdE)
+
+Music System Demo
+=================
 * Forest 4 playthrough with 'show music' (also wings)
  
 Other Systems/Features
