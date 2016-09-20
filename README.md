@@ -74,13 +74,13 @@ movers-path movers-stopping path mover
 
 ![simple mover](http://i.giphy.com/wJBvOcuQGQ4wM.gif)
 
-* evoled to pathing movers
-
-![path mover](http://i.giphy.com/12VgkJtVNatuhi.gif)
-
 * started using movers in creative ways in level editors
 
 ![ice platforms](http://i.giphy.com/ao8jlGusmfFPq.gif)
+
+* evoled to pathing movers
+
+![path mover](http://i.giphy.com/12VgkJtVNatuhi.gif)
 
 * one level needs path a mover that stops at last position
 
@@ -128,18 +128,22 @@ Disruptors
 
 parented animated objects
 -------------------------
-* trees/flowers (bones animated objects)
+* worked fine in editor when manipulating by hand
 
 ![scale working in editor](http://i.giphy.com/RBpLTzTUL0b6M.gif)
 
+* no worky when scaled by a parent in game
+
 ![scale problem](http://i.giphy.com/GpWpa0Tt08xaM.gif)
+
+*fixed by proportionally setting scale if parented (simple boolean)
 
 ![stay scaled parented animated](http://i.giphy.com/DfqrrS1ZR3ZC.gif)
 
 Leaderboards
 ------------
 * still up from Alpha (http://devnari.com/newtOne/)
-* felt too competitive for the game's philosophy
+* too competitive for the game's philosophy
 
 Enemies/NPCs
 ------------
