@@ -74,7 +74,7 @@ movers-path movers-stopping path mover
 
 * evoled to pathing movers
 
-PATH MOVER GIF
+![path mover](http://i.giphy.com/12VgkJtVNatuhi.gif)
 
 * started using movers in creative ways in level editors
 
