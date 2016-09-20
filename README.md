@@ -47,11 +47,13 @@ Level Design
 
 Progress System
 ===============
-* asdf asdf asdf
+* Level (percentage, drone/music, aesthetics)
+* Realm (wand, parrots, time)
+* World
 
 Music System
 ============
-* Forest 2 playthrough with 'show music' (also wings)
+* Forest 4 playthrough with 'show music' (also wings)
  
 Other Systems/Features
 ======================
@@ -122,7 +124,7 @@ Disruptors
 
 ![juice](http://i.giphy.com/whuC8e1GX7xx6.gif)
 * added bubble
-* play thru of Ice 4
+* play thru of Glaciers 4
 
 parented animated objects
 -------------------------
@@ -132,7 +134,7 @@ PROBLEM GIF
 
 ![stay scaled parented animated](http://i.giphy.com/DfqrrS1ZR3ZC.gif)
 
-leaderboards
+Leaderboards
 ------------
 * still up from Alpha (http://devnari.com/newtOne/)
 * felt too competitive for the game's philosophy
@@ -161,8 +163,8 @@ Hub Level
 
 Final Demo
 ==========
-* Hub level
-* Forest 6
+* Hub
+* Forest 6 playthrough
 
 Q&A
 ===
