@@ -83,8 +83,8 @@ Testing Analytics System
 Other programming tidbits
 ====
 
-RNG for non-gameplay stuff
-Language selection
+- RNG for non-gameplay stuff
+- Language selection
 
 ![languageSelection](slides/languageOptions.png)
 
