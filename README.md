@@ -72,7 +72,7 @@ Systems
 
 ![achievements](slides/achievementsPlan.png)
 ![realmAchievements](slides/realmAchievements.jpg)
-![worldAchievements](slides/worldAchievementsPlan.jpg)
+![worldAchievements](slides/worldAchievements.jpg)
 
 Testing Analytics System
 ========================
