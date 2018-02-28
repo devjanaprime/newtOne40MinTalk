@@ -30,30 +30,32 @@ Inro Play through
 
 Art
 ===
-![art1](images/art1.png)
-![art2](images/art2.png)
-![art3](images/art3.png)
-![art4](images/art4.png)
-![art5](images/art5.png)
-![art6](images/art6.png)
-![art7](images/art7.png)
-![art8](images/art8.png)
-![art9](images/art9.png)
-![art10](images/art10.png)
+
+![art1](slides/art1.png)
+![art2](slides/art2.png)
+![art3](slides/art3.png)
+![art4](slides/art4.png)
+![art5](slides/art5.png)
+![art6](slides/art6.png)
+![art7](slides/art7.png)
+![art8](slides/art8.png)
+![art9](slides/art9.png)
+![art10](slides/art10.png)
 
 Level Design
 ============
-![ld0](images/LD0.png)
-![ld1](images/LD1.png)
-![ld2](images/LD2.png)
-![ld3](images/LD3.png)
-![ld4](images/LD4.png)
-![ld5](images/LD5.png)
-![ld6](images/LD6.png)
-![ld7](images/LD7.png)
-![ld8](images/LD8.png)
-![ld9](images/LD9.png)
-![ld10](images/LD10.png)
+
+![ld0](slides/LD0.png)
+![ld1](slides/LD1.png)
+![ld2](slides/LD2.png)
+![ld3](slides/LD3.png)
+![ld4](slides/LD4.png)
+![ld5](slides/LD5.png)
+![ld6](slides/LD6.png)
+![ld7](slides/LD7.png)
+![ld8](slides/LD8.png)
+![ld9](slides/LD9.png)
+![ld10](slides/LD10.png)
 
 Systems
 =======
@@ -66,7 +68,7 @@ Systems
 * music level system
 ![level music system](http://i.imgur.com/xkYgI2E.png)
 
-![taxonomy](images/taxonomy.png)
+![taxonomy](slides/taxonomy.png)
 
 Testing Analytics System
 ========================
