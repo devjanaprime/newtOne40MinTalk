@@ -70,15 +70,23 @@ Systems
 
 ![taxonomy](slides/taxonomy.png)
 
+![achievements](slides/achievementsPlan.png)
+![realmAchievements](slides/realmAchievements.jpg)
+![worldAchievements](slides/worldAchievementsPlan.jpg)
+
 Testing Analytics System
 ========================
 ![testing SQL](http://i.imgur.com/G2FvnRj.png)
 
 [![video](http://i.imgur.com/ybjPXn1.png)](https://youtu.be/NrIpgW_MOdE)
 
-Music System Demo
-=================
-* Forest 4 playthrough with 'show music' (also wings)
+Other programming tidbits
+====
+
+RNG for non-gameplay stuff
+Language selection
+
+![languageSelection](slides/languageOptions.png)
 
 Other Systems/Features
 ======================
