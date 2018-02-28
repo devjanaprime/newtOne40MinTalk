@@ -30,20 +30,30 @@ Inro Play through
 
 Art
 ===
-![art1](http://i.imgur.com/bm8CjfS.png)
-![art2](http://i.imgur.com/57fEsDw.png)
-![art3](http://i.imgur.com/M7hK8GM.png)
-![art4](http://i.imgur.com/2kyoVz5.png)
-![art5](http://i.imgur.com/bLWwUWn.png)
-![art6](http://i.imgur.com/ZnVndvV.png)
+![art1](images/art1.png)
+![art2](images/art2.png)
+![art3](images/art3.png)
+![art4](images/art4.png)
+![art5](images/art5.png)
+![art6](images/art6.png)
+![art7](images/art7.png)
+![art8](images/art8.png)
+![art9](images/art9.png)
+![art10](images/art10.png)
 
 Level Design
 ============
-![ld1](http://i.imgur.com/7Tycv2z.png)
-![ld2](http://i.imgur.com/Eb5PyQw.png)
-![ld3](http://i.imgur.com/5N15Xjq.png)
-![ld4](http://i.imgur.com/9QY1C50.png)
-![ld5](http://i.imgur.com/73OrrvT.png)
+![ld0](images/LD0.png)
+![ld1](images/LD1.png)
+![ld2](images/LD2.png)
+![ld3](images/LD3.png)
+![ld4](images/LD4.png)
+![ld5](images/LD5.png)
+![ld6](images/LD6.png)
+![ld7](images/LD7.png)
+![ld8](images/LD8.png)
+![ld9](images/LD9.png)
+![ld10](images/LD10.png)
 
 Systems
 =======
@@ -54,8 +64,9 @@ Systems
 * World
 
 * music level system
-
 ![level music system](http://i.imgur.com/xkYgI2E.png)
+
+![taxonomy](images/taxonomy.png)
 
 Testing Analytics System
 ========================
@@ -66,7 +77,7 @@ Testing Analytics System
 Music System Demo
 =================
 * Forest 4 playthrough with 'show music' (also wings)
- 
+
 Other Systems/Features
 ======================
 * Scale Outs
@@ -128,7 +139,7 @@ Disruptors
 
 ![disruptor prototype](http://i.giphy.com/1O56HXGkmcNUI.gif)
 * evolved in a Slack convo
- 
+
 ![disruptors convo](http://i.imgur.com/EYEMZZh.png)
 
 ![updated model](http://i.giphy.com/PqKEG8xOsARva.gif)
