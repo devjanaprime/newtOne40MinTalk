@@ -173,6 +173,8 @@ parented animated objects
 
 ![stay scaled parented animated](http://i.giphy.com/DfqrrS1ZR3ZC.gif)
 
+![scale newt](slides/giantNewt.png)
+
 Leaderboards
 ------------
 * still up from Alpha (http://devnari.com/newtOne/)
